@@ -3,7 +3,7 @@
 //  TicTacToe
 //
 //  Created by Mario Ivan Esquivel Tejeda on 25/06/25.
-//
+//  Bemol needs to review it
 
 import SwiftUI
 
